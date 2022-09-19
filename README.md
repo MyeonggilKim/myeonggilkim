@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=명길이의%20깃허브&animation=blinking&fontSize=90&rotate=-270)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=명길이의%20깃허브&animation=blinking&fontSize=90&rotate=-330)
 
 #### 나의 첫번째 마크다운 파일입니다.
 
