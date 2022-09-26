@@ -67,3 +67,10 @@
 | 현대로템 | 4000이상 |
 | 한화디펜스 | 4000이상 |
 | 선형동교수님 회사 | 상관없음 |
+
+|함수|함수|함수|함수|
+|-----|-----|-----|-----|
+|int|float|complxe|str|
+|repr|eval|tuple|list|
+|set|dict|frozenset|chr|
+|unichr|ord|hex|oct|
