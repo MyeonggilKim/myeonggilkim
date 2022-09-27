@@ -80,3 +80,6 @@
 |repr|eval|tuple|list|
 |set|dict|frozenset|chr|
 |unichr|ord|hex|oct|
+ 
+ ![image](https://user-images.githubusercontent.com/112449512/192432568-ff4ba99b-6b94-4945-b6f9-02178f23dca4.png)
+
