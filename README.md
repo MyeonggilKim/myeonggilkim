@@ -1,3 +1,5 @@
+<div align="center"> 
+
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=맹길이의%20프로필&animation=blinking&fontSize=90&rotate=-340)
 # AI Control
 #### 나의 첫번째 마크다운 파일입니다.
@@ -98,3 +100,5 @@
 
 ![제목 없음](https://user-images.githubusercontent.com/112449512/192432871-2a4340a5-8fb6-4421-a9b8-5608e5a3c262.png)
 
+ 
+ </div>
