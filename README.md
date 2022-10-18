@@ -6,6 +6,13 @@
 
 ![20210322203142842vsgf](https://user-images.githubusercontent.com/112449512/195764473-17241245-059a-421c-8454-4bd7433af7b9.gif)
 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/NX-143055?style=flat-square&logo=NX&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMyeonggilKim&count_bg=%2379C83D&title_bg=%2311C4CA&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 
