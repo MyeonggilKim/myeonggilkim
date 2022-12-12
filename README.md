@@ -126,4 +126,8 @@
 
 ![제목 없음](https://user-images.githubusercontent.com/112449512/192432871-2a4340a5-8fb6-4421-a9b8-5608e5a3c262.png)
 
+AI프로그래밍 실습동작영상
+https://www.youtube.com/shorts/vfOHMUbOPEc
+
+
  
